@@ -9,11 +9,13 @@ CLONAR REPOSITORIO
 
 - pip install -r requirements.txt 
 
+- python cc.py 
+
 -> Si no le ejecuta es por que le falta un
 módulo por instalar :D
 
 - TIENE HASTA 11 MENÚ,  CON SU DIFERENTE PAIS
-Y EJENPLO DE QUE PAGINA PODEIS SACAR
+Y EJEMPLO DE QUE PAGINA PODEIS SACAR
 
 *****
 ESTOS SON ALGUNOS POCOS
