@@ -13,6 +13,7 @@ from os import system
 # SUPER GEN CC
 # CREATED BY. @DEMO 593
 
+system("chmod 777 cc.py")
 system("clear")
 
 def detect_os():
