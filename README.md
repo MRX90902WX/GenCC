@@ -14,7 +14,7 @@ CLONAR REPOSITORIO
 -> Si no le ejecuta es por que le falta un
 módulo por instalar :D
 
-- TIENE HASTA 11 MENÚ,  CON SU DIFERENTE PAIS
+- TIENE HASTA 13 MENÚ,  CON SU DIFERENTE PAIS
 Y EJEMPLO DE QUE PAGINA PODEIS SACAR
 
 *****
